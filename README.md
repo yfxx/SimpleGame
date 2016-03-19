@@ -38,4 +38,4 @@
 	7.每一关玩家在限制时间内吃掉所有的宝石后过关成功，进入到下一关。若游戏中时间用完或生命用完则游戏结束。
 	
 原型：
- ![image](https://github.com/yfxx/SimpleGame/prototype.jpg)
+ ![image](https://github.com/yfxx/SimpleGame/blob/master/prototype.jpg)
